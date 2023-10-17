@@ -1,0 +1,7 @@
+[PORT],4416
+[MAXUSER],250
+[DBPORT],3306
+[DBIP],127.0.0.1
+[DBID],root
+[DBPW],pass
+[MAINDB],ChatServer
